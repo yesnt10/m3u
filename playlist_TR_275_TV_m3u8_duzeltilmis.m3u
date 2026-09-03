@@ -1,0 +1,551 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TRT 4K UHD 2160p" tvg-logo="https://www.logolarimiz.com/europa/turkey/trt4k.png" group-title="ᴛʀ • ULUSAL",TRT 4K UHD 2160p
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94064.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="↺TRT 1 HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/trt1.png" group-title="ᴛʀ • ULUSAL",↺TRT 1 HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94061.m3u8
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TRT 2 HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/trt2.png" group-title="ᴛʀ • ULUSAL",TRT 2 HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/128885.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="↺SHOW TV HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/showtv.png" group-title="ᴛʀ • ULUSAL",↺SHOW TV HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94065.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="↺ATV HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/atv.png" group-title="ᴛʀ • ULUSAL",↺ATV HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94067.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="↺KANAL D HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/kanald.png" group-title="ᴛʀ • ULUSAL",↺KANAL D HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94069.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="↺STAR TV HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/startv.png" group-title="ᴛʀ • ULUSAL",↺STAR TV HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94071.m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="↺NOW TV HD+" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/now-tv.png" group-title="ᴛʀ • ULUSAL",↺NOW TV HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94075.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="↺TV 8 HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/tv8.png" group-title="ᴛʀ • ULUSAL",↺TV 8 HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94073.m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TV 8.5 HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/tv8-5.png" group-title="ᴛʀ • ULUSAL",TV 8.5 HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/146892.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="↺BEYAZ TV HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/beyaztv.png" group-title="ᴛʀ • ULUSAL",↺BEYAZ TV HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94079.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="↺KANAL 7 HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/kanal7.png" group-title="ᴛʀ • ULUSAL",↺KANAL 7 HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 AVRUPA HD+" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/kanal-7-avrupa.png" group-title="ᴛʀ • ULUSAL",KANAL 7 AVRUPA HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/596350.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2 HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/teve2.png" group-title="ᴛʀ • ULUSAL",TEVE 2 HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94085.m3u8
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/a2.png" group-title="ᴛʀ • ULUSAL",A2 HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94087.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 TV HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/360tv.png" group-title="ᴛʀ • ULUSAL",360 TV HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/109090.m3u8
+#EXTINF:-1 tvg-id="tv4.tr" tvg-name="TV 4 HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/tv4.png" group-title="ᴛʀ • ULUSAL",TV 4 HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94090.m3u8
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="SHOW MAX HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/showmax.png" group-title="ᴛʀ • ULUSAL",SHOW MAX HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bİ KANAL" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Bi.png" group-title="ᴛʀ • ULUSAL",Bİ KANAL
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/694812.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TURK" tvg-logo="https://www.logolarimiz.com/europa/turkey/showturk.png" group-title="ᴛʀ • ULUSAL",SHOW TURK
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94092.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV AVRUPA" tvg-logo="https://www.logolarimiz.com/europa/turkey/atvavrupa.png" group-title="ᴛʀ • ULUSAL",ATV AVRUPA
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94094.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="EURO STAR" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/euro-star.png" group-title="ᴛʀ • ULUSAL",EURO STAR
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94095.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="EURO D" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/euro-d.png" group-title="ᴛʀ • ULUSAL",EURO D
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABII TV" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • ULUSAL",TABII TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/655171.m3u8
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TRT TURK HD" tvg-logo="https://www.logolarimiz.com/europa/turkey/trtturk.png" group-title="ᴛʀ • ULUSAL",TRT TURK HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/109346.m3u8
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TRT AVAZ HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/trtavaz.png" group-title="ᴛʀ • ULUSAL",TRT AVAZ HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/111081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 INT" tvg-logo="https://www.logolarimiz.com/europa/turkey/tv8int.png" group-title="ᴛʀ • ULUSAL",TV 8 INT
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94097.m3u8
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="TRT EBA" tvg-logo="https://www.logolarimiz.com/europa/turkey/trteba.png" group-title="ᴛʀ • ULUSAL",TRT EBA
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94105.m3u8
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT HABER FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/trthaber.png" group-title="ᴛʀ • HABER",TRT HABER FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675947.m3u8
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABER FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/ahaber.png" group-title="ᴛʀ • HABER",A HABER FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675945.m3u8
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN TURK FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/cnnturk.png" group-title="ᴛʀ • HABER",CNN TURK FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675943.m3u8
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="HALK TV FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/halktv.png" group-title="ᴛʀ • HABER",HALK TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675941.m3u8
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="HABERTURK FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/haberturk.png" group-title="ᴛʀ • HABER",HABERTURK FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675939.m3u8
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/haberglobal.png" group-title="ᴛʀ • HABER",HABER GLOBAL FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675937.m3u8
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/ntv.png" group-title="ᴛʀ • HABER",NTV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675933.m3u8
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TV 100 FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/tv100.png" group-title="ᴛʀ • HABER",TV 100 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKOL TV FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/ekoltv.png" group-title="ᴛʀ • HABER",EKOL TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675929.m3u8
+#EXTINF:-1 tvg-id="akit.tr" tvg-name="AKIT TV FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/akittv.png" group-title="ᴛʀ • HABER",AKIT TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675927.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="24 TV FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/24tv.png" group-title="ᴛʀ • HABER",24 TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675925.m3u8
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="TELE 1 FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/tele1.png" group-title="ᴛʀ • HABER",TELE 1 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675923.m3u8
+#EXTINF:-1 tvg-id="turkhabertv.tr" tvg-name="TURKHABER FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/TURKHABER.png" group-title="ᴛʀ • HABER",TURKHABER FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676806.m3u8
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="KRT TV FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/krttv.png" group-title="ᴛʀ • HABER",KRT TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOZCU TV FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/sozcutv.png" group-title="ᴛʀ • HABER",SOZCU TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675919.m3u8
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="ULKE TV FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/ulketv.png" group-title="ᴛʀ • HABER",ULKE TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675917.m3u8
+#EXTINF:-1 tvg-id="flashhaber.tr" tvg-name="FLASH HABER FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/flashhaber.png" group-title="ᴛʀ • HABER",FLASH HABER FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675915.m3u8
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="BLOOMBERG HT FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/bloomberght.png" group-title="ᴛʀ • HABER",BLOOMBERG HT FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675913.m3u8
+#EXTINF:-1 tvg-id="liderhaber.tv" tvg-name="LIDER HABER FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/liderhaber.png" group-title="ᴛʀ • HABER",LIDER HABER FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675911.m3u8
+#EXTINF:-1 tvg-id="benguturk.tr" tvg-name="BENGU TURK FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/bengu-turk.png" group-title="ᴛʀ • HABER",BENGU TURK FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675909.m3u8
+#EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="EKOTURK FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/ekoturk.png" group-title="ᴛʀ • HABER",EKOTURK FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675907.m3u8
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TVNET FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/tvnet.png" group-title="ᴛʀ • HABER",TVNET FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC-E FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/CNBC-e.png" group-title="ᴛʀ • HABER",CNBC-E FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675935.m3u8
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="ULUSAL KANAL FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/ulusalkanal.png" group-title="ᴛʀ • HABER",ULUSAL KANAL FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675905.m3u8
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TGRT HABER FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/tgrthaber.png" group-title="ᴛʀ • HABER",TGRT HABER FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675901.m3u8
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="A PARA FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/apara.png" group-title="ᴛʀ • HABER",A PARA FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK HABER" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/MK.png" group-title="ᴛʀ • HABER",MK HABER
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/681420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIVI 6" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/tivi-6.png" group-title="ᴛʀ • HABER",TIVI 6
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ILKE TV" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/ILKE.TV.png" group-title="ᴛʀ • HABER",ILKE TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TYT TURK" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/TYT.Turk.png" group-title="ᴛʀ • HABER",TYT TURK
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675895.m3u8
+#EXTINF:-1 tvg-id="kanalb.tr" tvg-name="KANAL B" tvg-logo="https://www.logolarimiz.com/europa/turkey/kanalb.png" group-title="ᴛʀ • HABER",KANAL B
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/CANTV.png" group-title="ᴛʀ • HABER",CAN TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGEMAX TV" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/egemaxtv.png" group-title="ᴛʀ • HABER",EGEMAX TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRABZON HABER 61" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Haber61.png" group-title="ᴛʀ • HABER",TRABZON HABER 61
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT EU" tvg-logo="https://www.logolarimiz.com/europa/turkey/tgrteu.png" group-title="ᴛʀ • HABER",TGRT EU
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675889.m3u8
+#EXTINF:-1 tvg-id="trtworld.tr" tvg-name="TRT WORLD" tvg-logo="https://www.logolarimiz.com/europa/turkey/trtworld.png" group-title="ᴛʀ • HABER",TRT WORLD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675888.m3u8
+#EXTINF:-1 tvg-id="anews.tr" tvg-name="A NEWS" tvg-logo="https://www.logolarimiz.com/europa/turkey/anews.png" group-title="ᴛʀ • HABER",A NEWS
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/675948.m3u8
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT SPOR HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_spor.png" group-title="ᴛʀ • SPOR",TRT SPOR HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94891.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TRT SPOR YILDIZ HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/trtsporstar.png" group-title="ᴛʀ • SPOR",TRT SPOR YILDIZ HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94893.m3u8
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A SPOR HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/a_spor.png" group-title="ᴛʀ • SPOR",A SPOR HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/HT_SPOR.eno.png" group-title="ᴛʀ • SPOR",HT SPOR HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/621580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIFIR TV" tvg-logo="https://r.resimlink.com/Bamihv.jpeg" group-title="ᴛʀ • SPOR",SIFIR TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/704505.m3u8
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S SPORT 1 HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="ᴛʀ • SPOR",S SPORT 1 HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94871.m3u8
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S SPORT 2 HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/s_spor_2.png" group-title="ᴛʀ • SPOR",S SPORT 2 HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/111086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 1" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="ᴛʀ • SPOR",S SPORT PLUS 1
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94873.m3u8
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="S SPORT PLUS 2" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="ᴛʀ • SPOR",S SPORT PLUS 2
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 3" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="ᴛʀ • SPOR",S SPORT PLUS 3
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/534025.m3u8
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S SPORT PLUS 4" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="ᴛʀ • SPOR",S SPORT PLUS 4
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 5" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="ᴛʀ • SPOR",S SPORT PLUS 5
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/267419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 6" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="ᴛʀ • SPOR",S SPORT PLUS 6
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 7" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="ᴛʀ • SPOR",S SPORT PLUS 7
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 8" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="ᴛʀ • SPOR",S SPORT PLUS 8
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 9" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="ᴛʀ • SPOR",S SPORT PLUS 9
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 10" tvg-logo="https://tvlogo.nl/files/ch/TR/s_sport.png" group-title="ᴛʀ • SPOR",S SPORT PLUS 10
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101818.m3u8
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://i.ibb.co/m4TyCKy/image.png" group-title="ᴛʀ • SPOR",EUROSPORT 1 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://i.ibb.co/m4TyCKy/image.png" group-title="ᴛʀ • SPOR",EUROSPORT 2 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/570381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR" tvg-logo="https://www.logolarimiz.com/europa/turkey/tivibuspor.png" group-title="ᴛʀ • SPOR",TiViBU SPOR
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR 1" tvg-logo="https://www.logolarimiz.com/europa/turkey/tivibuspor.png" group-title="ᴛʀ • SPOR",TiViBU SPOR 1
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR 2" tvg-logo="https://www.logolarimiz.com/europa/turkey/tivibuspor.png" group-title="ᴛʀ • SPOR",TiViBU SPOR 2
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR 3" tvg-logo="https://www.logolarimiz.com/europa/turkey/tivibuspor.png" group-title="ᴛʀ • SPOR",TiViBU SPOR 3
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TiViBU SPOR 4" tvg-logo="https://www.logolarimiz.com/europa/turkey/tivibuspor.png" group-title="ᴛʀ • SPOR",TiViBU SPOR 4
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 1 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/SPOR.SMART.png" group-title="ᴛʀ • SPOR",SPOR SMART 1 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 2 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/SPOR.SMART.2.png" group-title="ᴛʀ • SPOR",SPOR SMART 2 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKOL SPORT HD+" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/EKOL.SPORT.png" group-title="ᴛʀ • SPOR",EKOL SPORT HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/689323.m3u8
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="FB TV HD" tvg-logo="https://www.logolarimiz.com/europa/turkey/FB.TV.eno.png" group-title="ᴛʀ • SPOR",FB TV HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94894.m3u8
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="SPORTS TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/sports_tv.png" group-title="ᴛʀ • SPOR",SPORTS TV HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 3 SPOR (TBMM) HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_sopr3_tbmm.png" group-title="ᴛʀ • SPOR",TRT 3 SPOR (TBMM) HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/111089.m3u8
+#EXTINF:-1 tvg-id="TJK TV" tvg-name="TJK TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/tjk_tv.png" group-title="ᴛʀ • SPOR",TJK TV HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/111088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAY TV HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/tay_tv.png" group-title="ᴛʀ • SPOR",TAY TV HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SATRANC & BRIC TV" tvg-logo="https://tvlogo.nl/files/ch/TR/bricVeSatrancTv.png" group-title="ᴛʀ • SPOR",SATRANC & BRIC TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94900.m3u8
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="NBA TV HD+" tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/NBA.png" group-title="ᴛʀ • SPOR",NBA TV HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/111087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/fightbox.png" group-title="ᴛʀ • SPOR",FIGHTBOX HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABİİ TV FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABİİ TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABii SPOR FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABii SPOR FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABii SPOR 1 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABii SPOR 1 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABii SPOR 2 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABii SPOR 2 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABii SPOR 3 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABii SPOR 3 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABii SPOR 4 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABii SPOR 4 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABii SPOR 5 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABii SPOR 5 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABii SPOR 6 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABii SPOR 6 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABii SPOR 7 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABii SPOR 7 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABii SPOR 8 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABii SPOR 8 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABii SPOR 9 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABii SPOR 9 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TABii SPOR 10 HD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tabii.png" group-title="ᴛʀ • TABII / EXXEN SPOR",TABii SPOR 10 HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 1 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Exxen.png" group-title="ᴛʀ • TABII / EXXEN SPOR",EXXEN SPORTS 1 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 2" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Exxen.png" group-title="ᴛʀ • TABII / EXXEN SPOR",EXXEN SPORTS 2
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 3" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Exxen.png" group-title="ᴛʀ • TABII / EXXEN SPOR",EXXEN SPORTS 3
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 4" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Exxen.png" group-title="ᴛʀ • TABII / EXXEN SPOR",EXXEN SPORTS 4
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 5" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Exxen.png" group-title="ᴛʀ • TABII / EXXEN SPOR",EXXEN SPORTS 5
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 6" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Exxen.png" group-title="ᴛʀ • TABII / EXXEN SPOR",EXXEN SPORTS 6
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 7" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Exxen.png" group-title="ᴛʀ • TABII / EXXEN SPOR",EXXEN SPORTS 7
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORTS 8" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Exxen.png" group-title="ᴛʀ • TABII / EXXEN SPOR",EXXEN SPORTS 8
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1101832.m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORT 4K" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports.png" group-title="ᴛʀ • b**N SPORTS +",BEIN SPORT 4K
+https://corestream.ardastream.live/beintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORT 1 RAW" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports1.png" group-title="ᴛʀ • b**N SPORTS +",BEIN SPORT 1 RAW
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1105083.m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="BEIN SPORT 2 RAW" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports2.png" group-title="ᴛʀ • b**N SPORTS +",BEIN SPORT 2 RAW
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1105080.m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BEIN SPORT 3 RAW" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports3.png" group-title="ᴛʀ • b**N SPORTS +",BEIN SPORT 3 RAW
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1105079.m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BEIN SPORT 4 RAW" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports4.png" group-title="ᴛʀ • b**N SPORTS +",BEIN SPORT 4 RAW
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1105089.m3u8
+#EXTINF:-1 tvg-id="beinsports5.tr" tvg-name="BEIN SPORT 5 RAW" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports5.png" group-title="ᴛʀ • b**N SPORTS +",BEIN SPORT 5 RAW
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1105088.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="BEIN SPORT MAX 1 RAW" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsportsmax1.png" group-title="ᴛʀ • b**N SPORTS +",BEIN SPORT MAX 1 RAW
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1105087.m3u8
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="BEIN SPORT MAX 2 RAW" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsportsmax2.png" group-title="ᴛʀ • b**N SPORTS +",BEIN SPORT MAX 2 RAW
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/1105078.m3u8
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="b**N SPORTS HABER FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsportshaber.png" group-title="ᴛʀ • b**N SPORTS",b**N SPORTS HABER FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/94936.m3u8
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="↺TRT BELGESEL FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/trtbelgesel.png" group-title="ᴛʀ • BELGESEL",↺TRT BELGESEL FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676715.m3u8
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="↺NAT GEO WILD FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/natgeowild.png" group-title="ᴛʀ • BELGESEL",↺NAT GEO WILD FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676713.m3u8
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="↺NATIONAL GEOGRAPHIC FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/natgeo.png" group-title="ᴛʀ • BELGESEL",↺NATIONAL GEOGRAPHIC FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676711.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="↺DISCOVERY FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/discovery.png" group-title="ᴛʀ • BELGESEL",↺DISCOVERY FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676709.m3u8
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="↺DISCOVERY ID FHD" tvg-logo="https://www.logolarimiz.com/logo/Sirbistan/ID.DISCOVERY.png" group-title="ᴛʀ • BELGESEL",↺DISCOVERY ID FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676707.m3u8
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="↺DMAX FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/dmax.png" group-title="ᴛʀ • BELGESEL",↺DMAX FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676705.m3u8
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="↺HISTORY FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/history.png" group-title="ᴛʀ • BELGESEL",↺HISTORY FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676701.m3u8
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="↺TLC FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/tlc.png" group-title="ᴛʀ • BELGESEL",↺TLC FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676699.m3u8
+#EXTINF:-1 tvg-id="tarih.tr" tvg-name="↺TARIH TV FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Tarih-tv.png" group-title="ᴛʀ • BELGESEL",↺TARIH TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676697.m3u8
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="↺BBC EARTH FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/bbcearth.png" group-title="ᴛʀ • BELGESEL",↺BBC EARTH FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676695.m3u8
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="↺VIASAT HISTORY FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/viasathistory.png" group-title="ᴛʀ • BELGESEL",↺VIASAT HISTORY FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676693.m3u8
+#EXTINF:-1 tvg-id="viasatexplore.tr" tvg-name="↺VIASAT EXPLORE FHD" tvg-logo="https://www.logolarimiz.com/logo/Sirbistan/Viasat_Explore.png" group-title="ᴛʀ • BELGESEL",↺VIASAT EXPLORE FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/lovenature.png" group-title="ᴛʀ • BELGESEL",LOVE NATURE FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b**N IZ FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/beiniz.png" group-title="ᴛʀ • BELGESEL",b**N IZ FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b**N GURME FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/beingurme.png" group-title="ᴛʀ • BELGESEL",b**N GURME FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABITAT TV FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/habitat.png" group-title="ᴛʀ • BELGESEL",HABITAT TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676685.m3u8
+#EXTINF:-1 tvg-id="tarimtv.tr" tvg-name="TARIM TV FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/TARIM.TV.png" group-title="ᴛʀ • BELGESEL",TARIM TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676683.m3u8
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="YABAN TV HD" tvg-logo="https://www.logolarimiz.com/europa/turkey/yabantv.png" group-title="ᴛʀ • BELGESEL",YABAN TV HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÇİFTÇİ TV HD" tvg-logo="https://www.logolarimiz.com/europa/turkey/ciftcitv.png" group-title="ᴛʀ • BELGESEL",ÇİFTÇİ TV HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KÖY TV HD" tvg-logo="https://www.logolarimiz.com/europa/turkey/koytv.png" group-title="ᴛʀ • BELGESEL",KÖY TV HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL HD" tvg-logo="https://www.logolarimiz.com/europa/turkey/tgrtbelgesel.png" group-title="ᴛʀ • BELGESEL",TGRT BELGESEL HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676675.m3u8
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TRT ÇOCUK HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_cocuk.png" group-title="ᴛʀ • COCUK",TRT ÇOCUK HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/559706.m3u8
+#EXTINF:-1 tvg-id="trtdiyanet.tr" tvg-name="TRT DİYANET ÇOCUK HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/trt.diyanet.cocuk.eno.png" group-title="ᴛʀ • COCUK",TRT DİYANET ÇOCUK HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/559704.m3u8
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="BABY TV HD+" tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/BABY%20TV.png" group-title="ᴛʀ • COCUK",BABY TV HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/559702.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.tr" tvg-name="DISNEY JR HD+" tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/DISNEY%20JUNIOR%20(%20NET%20FRACA%20).png" group-title="ᴛʀ • COCUK",DISNEY JR HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/559700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DA VINCI HD+" tvg-logo="https://www.logolarimiz.com/europa/turkey/davinci.png" group-title="ᴛʀ • COCUK",DA VINCI HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/597512.m3u8
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="SMART ÇOCUK HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/cocuk_smart.png" group-title="ᴛʀ • COCUK",SMART ÇOCUK HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/559698.m3u8
+#EXTINF:-1 tvg-id="cartoonito.tr" tvg-name="CARTOONITO FHD" tvg-logo="https://www.logolarimiz.com/logo/germany/CARTOONITO.png" group-title="ᴛʀ • COCUK",CARTOONITO FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/674447.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="CARTOON NETWORK HD" tvg-logo="https://tvlogo.nl/files/ch/TR/cartoon_network.png" group-title="ᴛʀ • COCUK",CARTOON NETWORK HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/559696.m3u8
+#EXTINF:-1 tvg-id="nickjr.tr" tvg-name="NICK JR HD" tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/NICKJUNIOR.png" group-title="ᴛʀ • COCUK",NICK JR HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/559694.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.tr" tvg-name="NICKELODEON HD+" tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/NICKELODEON.png" group-title="ᴛʀ • COCUK",NICKELODEON HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/559691.m3u8
+#EXTINF:-1 tvg-id="nicktoons.tr" tvg-name="NICKTOONS HD" tvg-logo="https://tvlogo.nl/files/ch/TR/nick_toons.png" group-title="ᴛʀ • COCUK",NICKTOONS HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/559690.m3u8
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="MINIKA GO HD" tvg-logo="https://tvlogo.nl/files/ch/TR/MinikaGO.png" group-title="ᴛʀ • COCUK",MINIKA GO HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/559688.m3u8
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="MINIKA ÇOCUK HD" tvg-logo="https://tvlogo.nl/files/ch/TR/minikaCocuk.png" group-title="ᴛʀ • COCUK",MINIKA ÇOCUK HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/559686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACETOON TV HD+" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Spacetoon.png" group-title="ᴛʀ • COCUK",SPACETOON TV HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/676842.m3u8
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="FX FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/fx.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",FX FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPIC DRAMA FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/Epic_Drama.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",EPIC DRAMA FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571906.m3u8
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/dizismart_max.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",DIZI SMART MAX FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571904.m3u8
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="DIZI SMART PREMIUM FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/dizismart_premium.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",DIZI SMART PREMIUM FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571902.m3u8
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="MOVIE SMART TURK FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/movismart_turk.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",MOVIE SMART TURK FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571900.m3u8
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="MOVIE SMART CLASSIC FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/movismart_classic.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",MOVIE SMART CLASSIC FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571898.m3u8
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="SINEMA TV FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_tv.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571896.m3u8
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="SINEMA TV 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_tv_2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV 2 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571894.m3u8
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="SINEMA TV YERLI FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_yerli.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV YERLI FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571892.m3u8
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="SINEMA TV YERLI 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinemaYerli2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV YERLI 2 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571890.m3u8
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="SINEMA TV AILE FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aile.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AILE FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571888.m3u8
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="SINEMA TV AILE 2 FHD" tvg-logo="https://r.resimlink.com/6_AVjRTM.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AILE 2 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571886.m3u8
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA TV AKSIYON FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aksiyon.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AKSIYON FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571884.m3u8
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="SINEMA TV AKSIYON 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aksiyon2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV AKSIYON 2 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571882.m3u8
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="SINEMA TV KOMEDI FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_komedi.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV KOMEDI FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571880.m3u8
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinemaKomedi2.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV KOMEDI 2 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571878.m3u8
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="SINEMA TV 1001 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_1001.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV 1001 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571876.m3u8
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="SINEMA TV 1002 FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/sinema1002.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",SINEMA TV 1002 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571874.m3u8
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="b**N MOVIES TURK FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/Bein.Movies.TURK.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES TURK FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b**N MOVIES FAMILY FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/Bein.Movies.Family.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES FAMILY FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b**N MOVIES ACTION FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/Bein.Movies.Action.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES ACTION FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571867.m3u8
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="b**N MOVIES STARS FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/Bein.Movies.Stars-2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES STARS FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571865.m3u8
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="b**N MOVIES PREMIERE FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/Bein.Movies.Premiere.Eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES PREMIERE FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571863.m3u8
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="b**N MOVIES PREMIERE 2 FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/Bein.Movies.Premiere-2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N MOVIES PREMIERE 2 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571861.m3u8
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="b**N BOX OFFICE 1 FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/Bein.box.office.1.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N BOX OFFICE 1 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b**N BOX OFFICE 2 FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/Bein.box.office.2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N BOX OFFICE 2 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b**N BOX OFFICE 3 FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/Bein.box.office.3.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N BOX OFFICE 3 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 1 FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/bein-series-1.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 1 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 2 FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/bein-series-2.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 2 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 3 FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/bein-series-3.eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 3 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 4 FHD" tvg-logo="https://www.logolarimiz.com/europa/turkey/bein-series-4eno.png" group-title="ᴛʀ • D-SMART&BEIN SINEMA",b**N SERIES 4 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/571847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIYANET TV HD+" tvg-logo="https://tvlogo.nl/files/ch/TR/trt_diyanet.png" group-title="ᴛʀ • DINI / YEREL",DIYANET TV HD+
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOST TV" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/dost_tv.png" group-title="ᴛʀ • DINI / YEREL",DOST TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KABE TV CANLI" tvg-logo="https://tvlogo.nl/files/ch/TR/kabe_tv.png" group-title="ᴛʀ • DINI / YEREL",KABE TV CANLI
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LALEGUL TV" tvg-logo="https://tvlogo.nl/files/ch/TR/lalegul_tv.png" group-title="ᴛʀ • DINI / YEREL",LALEGUL TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEMERKAND TV HD" tvg-logo="https://tvlogo.nl/files/ch/TR/semerkand.png" group-title="ᴛʀ • DINI / YEREL",SEMERKAND TV HD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REHBER TV" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/rehber_tv.png" group-title="ᴛʀ • DINI / YEREL",REHBER TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MELTEM TV" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/meltem_tv.png" group-title="ᴛʀ • DINI / YEREL",MELTEM TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUDUS TV" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/kudus_tv.png" group-title="ᴛʀ • DINI / YEREL",KUDUS TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FM TV" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/fm_tv.png" group-title="ᴛʀ • DINI / YEREL",FM TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GONCA TV" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/gonca_tv.png" group-title="ᴛʀ • DINI / YEREL",GONCA TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAT 7 TURK" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/sat_7_turk.png" group-title="ᴛʀ • DINI / YEREL",SAT 7 TURK
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VAV TV" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/vavTV.png" group-title="ᴛʀ • DINI / YEREL",VAV TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/149652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KADIRGA TV" tvg-logo="https://tvlogo.nl/files/ch/TR/kadirga_Tv.png" group-title="ᴛʀ • DINI / YEREL",KADIRGA TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/210195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANADOLU DERNEK TV" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/anadolu_dernek.png" group-title="ᴛʀ • DINI / YEREL",ANADOLU DERNEK TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/99010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KOZA TV (ADANA)" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/koza_tv.png" group-title="ᴛʀ • DINI / YEREL",KOZA TV (ADANA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/143753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MECLIS TV" tvg-logo="" group-title="ᴛʀ • DINI / YEREL",MECLIS TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/293504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MERCAN TV (ADIYAMAN)" tvg-logo="https://tvlogo.nl/files/ch/TR/mercan_tv.png" group-title="ᴛʀ • DINI / YEREL",MERCAN TV (ADIYAMAN)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/144015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 3 (AFYON)" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/kanal3.png" group-title="ᴛʀ • DINI / YEREL",KANAL 3 (AFYON)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 68 (AKSARAY)" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/kanal_68.png" group-title="ᴛʀ • DINI / YEREL",KANAL 68 (AKSARAY)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL V (ANTALYA)" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/kanal_v_antalya.png" group-title="ᴛʀ • DINI / YEREL",KANAL V (ANTALYA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAMSUN KANAL S" tvg-logo="" group-title="ᴛʀ • DINI / YEREL",SAMSUN KANAL S
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/516721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIM TV (ALANYA)" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/dimtv.png" group-title="ᴛʀ • DINI / YEREL",DIM TV (ALANYA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV DEN (AYDIN)" tvg-logo="https://tvlogo.nl/files/ch/TR/tv_den.png" group-title="ᴛʀ • DINI / YEREL",TV DEN (AYDIN)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/210523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MC EU TV (AVRUPA)" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/mc_eu.png" group-title="ᴛʀ • DINI / YEREL",MC EU TV (AVRUPA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/184217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BUCAK K15" tvg-logo="https://tvlogo.nl/files/ch/TR/kanal15.png" group-title="ᴛʀ • DINI / YEREL",BUCAK K15
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/184212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS TV (BURSA)" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/as_tv_bursa.png" group-title="ᴛʀ • DINI / YEREL",AS TV (BURSA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ILKE TV (BURSA)" tvg-logo="https://tvlogo.nl/files/ch/TR/ilke_tv.png" group-title="ᴛʀ • DINI / YEREL",ILKE TV (BURSA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/184204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LINE TV (BURSA)" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/line_tv.png" group-title="ᴛʀ • DINI / YEREL",LINE TV (BURSA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TON TV (ÇANAKKALE)" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/ton_tv_canakkkale.png" group-title="ᴛʀ • DINI / YEREL",TON TV (ÇANAKKALE)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 19 (ÇORUM)" tvg-logo="https://tvlogo.nl/files/ch/TR/tv19.png" group-title="ᴛʀ • DINI / YEREL",KANAL 19 (ÇORUM)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUMELI TV (KIRKLARELİ)" tvg-logo="https://tvlogo.nl/files/ch/TR/rumeli_tv.png" group-title="ᴛʀ • DINI / YEREL",RUMELI TV (KIRKLARELİ)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEK RUMELI TV" tvg-logo="https://tvlogo.nl/files/ch/TR/TEKRUMELITV.png" group-title="ᴛʀ • DINI / YEREL",TEK RUMELI TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/245090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRT TV (DENIZLI)" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/drtdenizli.png" group-title="ᴛʀ • DINI / YEREL",DRT TV (DENIZLI)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/126532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEHA TV (DENIZLI)" tvg-logo="https://tvlogo.nl/files/ch/TR/deha_tv.png" group-title="ᴛʀ • DINI / YEREL",DEHA TV (DENIZLI)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HRT AKDENIZ TV" tvg-logo="https://tvlogo.nl/files/ch/TR/hrt_akdeniz.png" group-title="ᴛʀ • DINI / YEREL",HRT AKDENIZ TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/184214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KARDELEN TV (ERZURUM)" tvg-logo="https://tvlogo.nl/files/ch/TR/kardelen_tv.png" group-title="ᴛʀ • DINI / YEREL",KARDELEN TV (ERZURUM)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 23 (ELAZIG)" tvg-logo="https://tvlogo.nl/files/ch/TR/kanal_23_rtv.png" group-title="ᴛʀ • DINI / YEREL",KANAL 23 (ELAZIG)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL FIRAT (ELAZIG)" tvg-logo="https://tvlogo.nl/files/ch/TR/kanal_firat.png" group-title="ᴛʀ • DINI / YEREL",KANAL FIRAT (ELAZIG)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZAZA TV (ELAZIG)" tvg-logo="https://i.imgur.com/W8uEi9B.png" group-title="ᴛʀ • DINI / YEREL",ZAZA TV (ELAZIG)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/210525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 26 (ESKISEHIR)" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/26tv-hdtvler-91px.png" group-title="ᴛʀ • DINI / YEREL",KANAL 26 (ESKISEHIR)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GRT (GAZIANTEP)" tvg-logo="https://tvlogo.nl/files/ch/TR/grt_tv.png" group-title="ᴛʀ • DINI / YEREL",GRT (GAZIANTEP)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 32 (ISPARTA)" tvg-logo="https://tvlogo.nl/files/ch/TR/kanal32.png" group-title="ᴛʀ • DINI / YEREL",KANAL 32 (ISPARTA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/191162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEMPO TV (ISTANBUL)" tvg-logo="https://tvlogo.nl/files/ch/TR/tempo_tv.png" group-title="ᴛʀ • DINI / YEREL",TEMPO TV (ISTANBUL)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAVI KARADENIZ (ISTANBUL)" tvg-logo="https://tvlogo.nl/files/ch/TR/MAVIKARADENIZ.png" group-title="ᴛʀ • DINI / YEREL",MAVI KARADENIZ (ISTANBUL)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL AVRUPA" tvg-logo="https://i.hizliresim.com/KDdUL5.png" group-title="ᴛʀ • DINI / YEREL",KANAL AVRUPA
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/131297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AKSU TV (KAHRAMANMARAS) " tvg-logo="https://tvlogo.nl/files/ch/TR/aksu_tv.png" group-title="ᴛʀ • DINI / YEREL",AKSU TV (KAHRAMANMARAS)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV KAYSERI" tvg-logo="https://tvlogo.nl/files/ch/TR/tv_kayseri.png" group-title="ᴛʀ • DINI / YEREL",TV KAYSERI
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BRTV (KARABUK)" tvg-logo="https://tvlogo.nl/files/ch/TR/brtv_bKdz.png" group-title="ᴛʀ • DINI / YEREL",BRTV (KARABUK)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 41 (KOCAELI)" tvg-logo="https://tvlogo.nl/files/ch/TR/tv_41.png" group-title="ᴛʀ • DINI / YEREL",TV 41 (KOCAELI)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KOCAELI TV" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/kocaeli_tv.png" group-title="ᴛʀ • DINI / YEREL",KOCAELI TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/184205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KON TV (KONYA)" tvg-logo="https://tvlogo.nl/files/ch/TR/kon_tv.png" group-title="ᴛʀ • DINI / YEREL",KON TV (KONYA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 42 (KONYA)" tvg-logo="https://tvlogo.nl/files/ch/TR/kanal_42.png" group-title="ᴛʀ • DINI / YEREL",KANAL 42 (KONYA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/107415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ER TV (MALATYA)" tvg-logo="https://tvlogo.nl/files/ch/TR/er_tv.png" group-title="ᴛʀ • DINI / YEREL",ER TV (MALATYA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VUSLAT TV (MALATYA)" tvg-logo="https://tvlogo.nl/files/ch/TR/vuslat_tv.png" group-title="ᴛʀ • DINI / YEREL",VUSLAT TV (MALATYA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 33 (MERSIN)" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/kanal_33_mersin.png" group-title="ᴛʀ • DINI / YEREL",KANAL 33 (MERSIN)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/184209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUN RTV (MERSIN)" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/TV2000.png" group-title="ᴛʀ • DINI / YEREL",SUN RTV (MERSIN)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/184210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TURK TV (MUGLA)" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/muglaturktv-hdtvler-q6em.png" group-title="ᴛʀ • DINI / YEREL",TURK TV (MUGLA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ON4 TV" tvg-logo="https://tvlogo.nl/files/ch/TR/on4_tv.png" group-title="ᴛʀ • DINI / YEREL",ON4 TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALTAS TV (ORDU)" tvg-logo="https://tvlogo.nl/files/ch/TR/altas_tv.png" group-title="ᴛʀ • DINI / YEREL",ALTAS TV (ORDU)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 52 (ORDU)" tvg-logo="https://tvlogo.nl/files/ch/TR/tv52_ordu.png" group-title="ᴛʀ • DINI / YEREL",TV 52 (ORDU)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAY TV (RIZE)" tvg-logo="https://tvlogo.nl/files/ch/TR/cay_tv.png" group-title="ᴛʀ • DINI / YEREL",CAY TV (RIZE)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV264 (SAKARYA)" tvg-logo="https://tvlogo.nl/files/ch/TR/tv264_sakarya.png" group-title="ᴛʀ • DINI / YEREL",TV264 (SAKARYA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/209651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 58 (SIVAS)" tvg-logo="https://www.logolarimiz.com/europa/turkey_2024/yerel/sivaskanal58.png" group-title="ᴛʀ • DINI / YEREL",KANAL 58 (SIVAS)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL URFA (SANLIURFA)" tvg-logo="https://tvlogo.nl/files/ch/TR/kanal_urfa.png" group-title="ᴛʀ • DINI / YEREL",KANAL URFA (SANLIURFA)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/144019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/tv_5.png" group-title="ᴛʀ • DINI / YEREL",TV 5
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL Z (ZONGULDAK)" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/kanalztv-hdtvler-m9nf.png" group-title="ᴛʀ • DINI / YEREL",KANAL Z (ZONGULDAK)
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YILDIZ EN" tvg-logo="https://tvlogo.nl/files/ch/TR/yildiz_rize.png" group-title="ᴛʀ • DINI / YEREL",YILDIZ EN
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/99011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LUYS TV ERMENI" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/luystv-hdtvler-1tqt.png" group-title="ᴛʀ • DINI / YEREL",LUYS TV ERMENI
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/95365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT MUZIK FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/trtmuzik.png" group-title="ᴛʀ • MUZIK",TRT MUZIK FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM TURK FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/Dream_T%C3%BCrk.png" group-title="ᴛʀ • MUZIK",DREAM TURK FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM TV FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/dream-tv.png" group-title="ᴛʀ • MUZIK",DREAM TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWERTURK FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/powerTurk.png" group-title="ᴛʀ • MUZIK",POWERTURK FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TV FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/POWER.tv.png" group-title="ᴛʀ • MUZIK",POWER TV FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TURK AKUSTIK" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/POWER.TURK.AKUSTIK.png" group-title="ᴛʀ • MUZIK",POWER TURK AKUSTIK
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TURK SLOW" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/POWER.TURK.SLOW.png" group-title="ᴛʀ • MUZIK",POWER TURK SLOW
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TURK TAPTAZE" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/POWER.TURK.TAPTAZE.png" group-title="ᴛʀ • MUZIK",POWER TURK TAPTAZE
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 TURK FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/nr1turk.png" group-title="ᴛʀ • MUZIK",NR1 TURK FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 FHD" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/NR1.png" group-title="ᴛʀ • MUZIK",NR1 FHD
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKIN TURK TV" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/ekinturk_tv.png" group-title="ᴛʀ • MUZIK",EKIN TURK TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YILDIZ EN TV" tvg-logo="https://www.logolarimiz.com/logo/Turkiye/yildiz-en.png" group-title="ᴛʀ • MUZIK",YILDIZ EN TV
+http://clubxc.com:8080/etemgencalmschnak/c8W9MbpttcdD/677647.m3u8
